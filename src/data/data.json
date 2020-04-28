@@ -1,0 +1,50 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Bhavya manam",
+                "role" : "Trainer Cum Developer",
+                "email" : "bhavyalakshmi.m@apssdc.in",
+                "mobile": "+91 9959754455"
+            },
+            "about":[
+                {
+                    "experience":"Having experience of 1.3+ years as Trainer Cum Developer in Andhra Pradesh State Skill Development Corporation(APSSDC). Trained approximately 2000+ students so far in short term & long term training programs. Having Good Knowledge in Python,Git&Github,MIT App Inventor and Raptor."
+                }
+            ],
+            "skillset":[
+                {
+                    "pro":" Program Languages : Python, Java, C",
+                    "fram":"Framworks : Django, Reactjs, Javascript",
+                    "os":"Operating Systems : Windows, Linux",
+                    "web":"Web Technologies : HTML5, CSS3, Bootstrap4"
+                }
+            ],
+            "certifications":[
+                {
+                    "name":"Python for Everybody",
+                    "university":"Michigan university"
+                },
+                {
+                    "name":"FullStack Nano Degree Certification",
+                    "university":"Udacity"
+                }
+            ],
+            "education":[
+                {
+                    "degree":"B-Tech (CSE)",
+                    "institution": "MVR College of Engineering,Vijayawada"
+                },
+                {
+                    "degree":"Intermediate(MPC)",
+                    "institution":"Nalanda Junior College, Guntur"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "kakatheeya vidhya peetham, Martur"
+                }
+            ]
+        }
+        
+    ]
+}
